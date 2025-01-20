@@ -38,7 +38,7 @@ The **Future FTR Wallet** is a Python-based wallet designed to interact with the
 ### **Steps**  
 1. **Clone the Repository**:  
    git clone <repository-url>
-   cd Future-FTR-Wallet
+   cd FTR_Wallet
 
 2. **Install Dependencies**:
    Run the following command to install all required Python packages:
